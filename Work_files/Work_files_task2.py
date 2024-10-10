@@ -27,7 +27,6 @@ def parse_recipes(filename):
             cook_book[dish_name] = ingredients
 
             file.readline()
-
     return cook_book
 
 filename = 'recipes.txt'
