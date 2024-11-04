@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c43d3e01-6c30-47c0-8a6e-48b0a9a6e56d" name="Changes" comment="testing">
-      <change afterPath="$PROJECT_DIR$/Work_files/Work_files_task2.py" afterDir="false" />
+    <list default="true" id="c43d3e01-6c30-47c0-8a6e-48b0a9a6e56d" name="Changes" comment="Задача № 4">
+      <change afterPath="$PROJECT_DIR$/Course_task/Final_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_task/config.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_task/credentials.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course_task/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tets.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -45,23 +53,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Work_files_task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tets.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mihail/Python/OOP_API/.venv/Work_files&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.VCS&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.11.executor": "Run",
+    "Python.Final_version.executor": "Run",
+    "Python.OPP_task1.executor": "Run",
+    "Python.OPP_task3.executor": "Run",
+    "Python.OPP_task4.executor": "Run",
+    "Python.Opp_task2.executor": "Run",
+    "Python.Work_files_task1.executor": "Run",
+    "Python.Work_files_task2.executor": "Run",
+    "Python.Work_files_task3.executor": "Run",
+    "Python.corse_task.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test2.executor": "Run",
+    "Python.tets.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Mihail/Python/OOP_API/Course_task",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mihail\Python\OOP_API\Course_task" />
+      <recent name="C:\Users\Mihail\Python\OOP_API\help" />
+      <recent name="C:\Users\Mihail\Python\OOP_API\Course_task\Раздел 9- Строки" />
+      <recent name="C:\Users\Mihail\Python\OOP_API\OPP" />
       <recent name="C:\Users\Mihail\Python\OOP_API\.venv\Work_files" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="Opp_task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OOP_API" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OPP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OPP/Opp_task2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OOP_API" />
       <option name="ENV_FILES" value="" />
@@ -86,6 +131,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Opp_task2" />
         <item itemvalue="Python.tets" />
       </list>
     </recent_temporary>
@@ -117,8 +163,83 @@
       <option name="project" value="LOCAL" />
       <updated>1728412268229</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="testing">
+      <option name="closed" value="true" />
+      <created>1728586422261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728586422261</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Задача № 1">
+      <option name="closed" value="true" />
+      <created>1728586616608</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728586616608</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Задача № 1">
+      <option name="closed" value="true" />
+      <created>1728587020321</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728587020321</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Задача № 2">
+      <option name="closed" value="true" />
+      <created>1728587094789</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728587094789</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Задача № 3">
+      <option name="closed" value="true" />
+      <created>1728588565189</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728588565189</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Задача № 1">
+      <option name="closed" value="true" />
+      <created>1728720135093</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728720135093</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Задача № 2">
+      <option name="closed" value="true" />
+      <created>1728721919361</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728721919361</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Задача № 3">
+      <option name="closed" value="true" />
+      <created>1728723667517</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728723667517</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Задача № 4">
+      <option name="closed" value="true" />
+      <created>1728724662326</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728724662326</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -133,6 +254,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing" />
+    <MESSAGE value="Задача № 1" />
+    <MESSAGE value="Задача № 2" />
+    <MESSAGE value="Задача № 3" />
+    <MESSAGE value="Задача № 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача № 4" />
   </component>
 </project>
